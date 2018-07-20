@@ -1,0 +1,7 @@
+*.ipynb
+*.jpg
+*.jpeg
+*.png
+*.json
+.ipynb_checkpoints/
+**/.vscodes/
